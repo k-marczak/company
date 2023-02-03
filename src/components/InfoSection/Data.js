@@ -1,0 +1,22 @@
+export const homeObjOne = {
+    id: 'about',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: '',
+    heading: 'O nas...',
+    description: "Dynamicznie rozwijająca się firma Savicon. Posiadamy wieloletnie doświadczenie z klientami z branży lotniczej, cargo, KEP i pocztowych. Oferujemy szeroki wachlarz usług rozwiązań na całym swiecie takich jak: ",
+    description7: '',
+    description1: '• BHS (Baggage handling systems) - Transport bagażu rejstrowanego',
+    description2: '• Sortation systems - sortowanie paczek, bagaży',
+    description3: '• EBS (Early baggage storage) - magazyn bagażu wcześnie odprawionego',
+    description4: '• Conveyors and carousels - tasmociagi transportowe i karuzele odbioru bagaży',
+    description5: '• Security screening - urzadzenia prześwietlające bagaż',
+    description6: '• Checkpoint Screening - punkty kontroli osobistej',
+    imgStart: false, 
+    img: require('../../images/svg-1.svg'),
+    alt: 'Car',
+    dark: true,
+    primary: true,
+    darkText: false
+};
