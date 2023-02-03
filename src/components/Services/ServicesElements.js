@@ -113,9 +113,9 @@ export const ServicesH1 = styled.h1`
     }
 
     @media screen and (max-width: 480px){
-        font-size: 3rem;
+        font-size: 1.5rem;
         
-        top: -90px;
+        top: -40px;
     }
 
 
