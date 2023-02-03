@@ -30,6 +30,10 @@ export const InfoWrapper = styled.div`
         height: 800px;
     }
 
+    @media screen and (max-width: 568px){
+        height: 1200px;
+    }
+
 
 `;
 

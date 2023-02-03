@@ -78,7 +78,7 @@ export const SkillsWrapper = styled.div`
 
 
     @media screen and (max-width: 600px) {
-        height: 1000px;
+        height: 1100px;
         
     }
  
